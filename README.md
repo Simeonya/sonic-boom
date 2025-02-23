@@ -31,7 +31,7 @@ Ensure that the `interact-sound` resource is installed and running. This is esse
 #### 1. Download the Script
 
 - Navigate to the **Releases** section.
-- Download the latest available version of the script.
+- [Download](https://github.com/Simeonya/sonic-boom/releases/download/1.0/sonic-boom.zip) the latest available version of the script.
 
 #### 2. Extract and Move Files
 
